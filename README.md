@@ -1,2 +1,2 @@
 # 1LSN
-updated by SOS
+updated by SOS on VSCode
